@@ -27,6 +27,7 @@ body {
 .right-side {
   display: flex;
   flex-direction: row;
+  align-items: center;
 }
 
 .profile-image {
@@ -52,7 +53,9 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
+  margin: 8px;
 }
+
 
 a {
   /* this removes the line under our links */
