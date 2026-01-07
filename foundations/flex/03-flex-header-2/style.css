@@ -21,7 +21,12 @@ body {
 .left-side {
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
+  align-items: center;
+}
+
+.right-side {
+  display: flex;
+  flex-direction: row;
 }
 
 .profile-image {
