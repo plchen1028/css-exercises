@@ -10,6 +10,12 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+}
+
+.plants {
+  display: flex;
+  flex-direction: row;
 }
 
 /* do not edit this footer */
