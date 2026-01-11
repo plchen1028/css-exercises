@@ -8,6 +8,13 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+  font-size: 32px;
+  font-weight: 900;
+  display: flex;
+  flex-direction: row;
+  padding-left: 16px;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .footer {
